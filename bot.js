@@ -222,4 +222,4 @@ client.on("roleCreate", async channel => {
  
  
  
-client.login("NjQ2MTQ3MTYzOTE0NzY0Mjk4.XdM5hw.0cHaXJzNoztCqDxdgvrN6EEuGLw");
+client.login(process.env.TOKEN);
